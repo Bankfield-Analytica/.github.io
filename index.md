@@ -1,7 +1,6 @@
 ---
 layout: homepage
 permalink: /
-title: "Latest Posts"
 ---
 
 <div id="js-menu-screen" class="menu-screen"></div>

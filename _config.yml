@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: BA_icon.png
+title: /images/BA_icon.png
 description: "Data Science and Analysis."
-logo: bio-photo.png
-teaser: background.png
+logo: /images/bio-photo.png
+teaser: /images/background.png
 locale: en
 url:
 feed:
@@ -33,7 +33,7 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.png # 160x160 px image for author byline
+  avatar: /images/bio-photo.png # 160x160 px image for author byline
   disqus-shortname:
 
 
