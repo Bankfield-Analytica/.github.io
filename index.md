@@ -6,8 +6,8 @@ title: "Latest Posts"
 
 <div class="page-lead" style="background-image:url(https://raw.githubusercontent.com/Bankfield-Analytica/bankfield-analytica.github.io/master/images/wood-texture-1600x800.jpg)">
       <div class="wrap page-lead-content">
-        <h1>Skinny Bones</h1>
-        <h2>Jump start your Jekyll site with something thin and light.</h2>
+        <h1>Bankfield Analytica</h1>
+        <h2>Big Data Analytics and Machine Learning</h2>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     
