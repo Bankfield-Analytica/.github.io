@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: homepage
 permalink: /
 title: "Latest Posts"
 ---
