@@ -4,7 +4,7 @@ permalink: /
 title: "Latest Posts"
 ---
 
-    <div class="page-lead" style="background-image:url(https://raw.githubusercontent.com/Bankfield-Analytica/bankfield-analytica.github.io/master/images/FjKrJ.jpg)">
+<div class="page-lead" style="background-image:url(https://raw.githubusercontent.com/Bankfield-Analytica/bankfield-analytica.github.io/master/images/FjKrJ.jpg)">
       <div class="wrap page-lead-content">
         <h1>Skinny Bones</h1>
         <h2>Jump start your Jekyll site with something thin and light.</h2>
@@ -12,15 +12,15 @@ title: "Latest Posts"
     </div><!-- /.page-lead -->
     
 
-      <div id="main" role="main">
+<div id="main" role="main">
         <div class="wrap">
           <div class="page-title">
             <h1></h1>
             
-          </div>
-          <div class="archive-wrap">
-            <div class="page-content">
-              <div class="tiles">
+</div>
+<div class="archive-wrap">
+<div class="page-content">
+<div class="tiles">
 
 <div class="tile">
   <h2 class="post-title">Built for Jekyll 3</h2>
@@ -45,7 +45,7 @@ title: "Latest Posts"
 </div>
 <!-- /.tiles -->
 
-            </div><!-- /.page-content -->
-          </div class="archive-wrap"><!-- /.archive-wrap -->
-        </div><!-- /.wrap -->
-      </div><!-- /#main -->
+</div><!-- /.page-content -->
+</div class="archive-wrap"><!-- /.archive-wrap -->
+</div><!-- /.wrap -->
+</div><!-- /#main -->
