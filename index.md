@@ -4,7 +4,6 @@ permalink: /
 title: "Latest Posts"
 ---
 
-<div class="inner-wrap">
 <div id="js-menu-screen" class="menu-screen"></div>
 
   <div class="page-lead" style="background-image:url(https://raw.githubusercontent.com/Bankfield-Analytica/bankfield-analytica.github.io/master/images/wood-texture-1600x800.jpg)">
