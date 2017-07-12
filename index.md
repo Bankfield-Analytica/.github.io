@@ -4,15 +4,17 @@ permalink: /
 title: "Latest Posts"
 ---
 
-<div class="page-lead" style="background-image:url(https://raw.githubusercontent.com/Bankfield-Analytica/bankfield-analytica.github.io/master/images/wood-texture-1600x800.jpg)">
+<div id="js-menu-screen" class="menu-screen"></div>
+
+  <div class="page-lead" style="background-image:url(https://raw.githubusercontent.com/Bankfield-Analytica/bankfield-analytica.github.io/master/images/wood-texture-1600x800.jpg)">
       <div class="wrap page-lead-content">
         <h1>Bankfield Analytica</h1>
         <h2>Big Data Analytics and Machine Learning</h2>
       </div><!-- /.page-lead-content -->
-    </div><!-- /.page-lead -->
+   </div><!-- /.page-lead -->
     
 
-<div id="main" role="main">
+  <div id="main" role="main">
         <div class="wrap">
           <div class="page-title">
             <h1></h1>
