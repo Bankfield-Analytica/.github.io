@@ -13,6 +13,7 @@ body {
 }
 
 p {
+  font-family: $base-font;
 	@include font-size(18,yes,28);
 }
 
