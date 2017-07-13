@@ -19,17 +19,17 @@ permalink: /
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h1 class="post-title">Analytics</h1>
+  <h1>Analytics</h1>
   <p>Mauris in lectus feugiat, convallis metus at, molestie magna. Vivamus vel blandit sem, efficitur aliquam neque. In ullamcorper felis ut blandit scelerisque.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h1 class="post-title">Machine Learning</h1>
+  <h1>Machine Learning</h1>
   <p>Donec rutrum dignissim dui et pulvinar. Vivamus ut interdum erat. Etiam a convallis dui. In ut neque at urna laoreet dignissim. Aliquam erat volutpat. Curabitur pharetra vestibulum mi a dictum.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h1 class="post-title">Contact</h1>
+  <h1>Contact</h1>
   <p>roin vitae nisl massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam eget consectetur sapien. Donec sapien ex, facilisis sed orci in, ornare fermentum tellus.</p>
 </div><!-- /.tile -->
 
