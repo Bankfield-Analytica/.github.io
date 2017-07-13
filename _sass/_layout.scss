@@ -246,7 +246,7 @@
 		padding: 3em;
 	}
 	h1 {
-		@include font-size(48);
+		@include font-size(42);
 		@include media($medium) {
 			@include font-size(60);
 		}
@@ -255,7 +255,7 @@
 		}
 	}
 	h2 {
-		@include font-size(20);
+		@include font-size(24);
 		@include media($medium) {
 			@include font-size(24);
 		}
