@@ -11,12 +11,6 @@ permalink: /
 </div><!-- /.page-lead -->
     
 
-  <div id="main" role="main">
-        <div class="wrap">
-          <div class="page-title">
-            <h1></h1>
-            
-</div>
 <div class="archive-wrap">
 <div class="page-content">
 <div class="tiles">
@@ -41,7 +35,6 @@ permalink: /
   <p class="post-excerpt">roin vitae nisl massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam eget consectetur sapien. Donec sapien ex, facilisis sed orci in, ornare fermentum tellus.</p>
 </div><!-- /.tile -->
 
-</div>
-<!-- /.tiles -->
-
+</div><!-- /.tiles -->
 </div><!-- /.page-content -->
+</div><!-- /.archive-wrap -->
