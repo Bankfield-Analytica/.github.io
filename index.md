@@ -15,7 +15,7 @@ permalink: /
 
 <div class="tile">
   <h1 class="post-title">Data Science</h1>
-  <p class="post-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc imperdiet, ante id consequat placerat, enim sapien mollis enim, sed hendrerit erat metus eu leo. Duis ac ultricies est. Proin leo sapien, aliquet ut eleifend ac, maximus vel mauris.</p>
+  <p class="post-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc imperdiet, ante id consequat placerat, enim sapien enim, sed hendrerit erat metus eu leo. Duis ac ultricies est. Proin leo sapien, aliquet ut eleifend ac, maximus vel mauris.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
