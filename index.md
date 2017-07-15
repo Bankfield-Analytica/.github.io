@@ -30,7 +30,7 @@ permalink: /
 
 <div class="tile">
   <h1>Contact</h1>
-  <p>You can contact us at <a href="mailto:bankfield.analytica@gmail.com">bankfield.analytica@gmail.com</a>, or by phone on (UK) 07531060332</p>
+  <p>You can contact us <a href="mailto:bankfield.analytica@gmail.com">@bankfield.analytica</a>, or by phone on (UK) 07531060332</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
