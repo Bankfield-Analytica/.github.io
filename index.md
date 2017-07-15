@@ -20,12 +20,12 @@ permalink: /
 
 <div class="tile">
   <h1>Big Data</h1>
-  <p>Our Big Data analysis allows businesses to dig even deeper, and make more informed decisions. We apply the latests Machine Learning and Neural Network techniques.</p>
+  <p>Our Big Data analysis allows businesses to dig even deeper, and make more informed decisions. We employ the latest Machine Learning and Neural Network techniques.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h1>Forecasting</h1>
-  <p>We also develop forecasting models of potential markets, sales trends, profits and other economic indicators. Forecasts can be used to create scenarios and “what-if” analyses that allow businesses to strategise in advance.</p>
+  <p>Forecasting models can be used to create scenarios and “what-if” analyses that allow businesses to strategise in advance. Be it market data, sales trends, profits or other economic indicators.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
