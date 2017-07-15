@@ -20,7 +20,7 @@ permalink: /
 
 <div class="tile">
   <h1>Big Data</h1>
-  <p>Our Big Data analysis allows businesses to dig even deeper, and make more informed decisions. We employ the latest Machine Learning and Neural Network techniques.</p>
+  <p>Our Big Data analysis allows businesses to dig even deeper, and make more informed decisions. We employ the latest Machine Learning and Neural Network techniques.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
